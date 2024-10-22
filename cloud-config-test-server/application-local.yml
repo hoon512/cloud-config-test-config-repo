@@ -1,8 +1,8 @@
 custom:
   property-name: remote-local-property
-  value: 10
+  value: 14
   list:
-    - 19
+    - 1944
     - 120
     - 131
     - 124
