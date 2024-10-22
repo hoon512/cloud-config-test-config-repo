@@ -1,6 +1,6 @@
 custom:
   property-name: remote-local-property
-  value: 2111
+  value: 2222
   list:
     - 1111
     - 120
