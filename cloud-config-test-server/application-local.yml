@@ -1,6 +1,6 @@
 custom:
   property-name: remote-local-property
-  value: 7777
+  value: 8888
   list:
     - 1111
     - 120
